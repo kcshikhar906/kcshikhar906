@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Shikhar KC!
 
 Welcome to my GitHub! I'm an IT Support and Systems enthusiast based in Australia, with hands-on experience in customer support, IT infrastructure, and automation. I'm currently deepening my expertise through professional training and real-world projects while also exploring creative and practical solutions in the tech space.
 
