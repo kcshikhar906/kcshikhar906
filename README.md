@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shikhar KC,
-
+ ( https://kcshikhar906.github.io/SKC-Portfolio )
 I'm an aspiring System Administrator and IT Support Specialist based in Australia. With over a year of hands-on IT support experience, I'm currently enhancing my skills through professional training, enterprise-level projects, and automation tools.
 ---
 ## 🔧 Skills & Tools
